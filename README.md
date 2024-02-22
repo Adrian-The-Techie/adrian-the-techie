@@ -1,3 +1,5 @@
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Adrian-The-Techie)](https://git.io/streak-stats)
+
 ### Hi there 👋
 
 
