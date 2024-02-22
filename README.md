@@ -1,8 +1,8 @@
 
 ### Hi there 👋
 
-<p align="center">A little bit about me</p> 
-<p align="center">Experienced Software Developer adept in bringing forth expertise in design, installation, testingand maintenance of software systems. Proficient in various platforms, languages, and embeddedsystems. Experienced with the latest cutting edge development tools and procedures. Able toeffectively self-manage during independent projects, as well as collaborate as part of a productiveteam.</p>
+<p align="left">A little bit about me</p> 
+<p align="left">Experienced Software Developer adept in bringing forth expertise in design, installation, testingand maintenance of software systems. Proficient in various platforms, languages, and embeddedsystems. Experienced with the latest cutting edge development tools and procedures. Able toeffectively self-manage during independent projects, as well as collaborate as part of a productiveteam.</p>
 
 
 
